@@ -1,0 +1,105 @@
+{
+  "leads": [
+    {
+      "srno": 1,
+      "customer": "John Doe",
+      "company": "ABC Inc.",
+      "mobileno": "123-456-7890",
+      "email": "john.doe@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 2,
+      "customer": "Jane Smith",
+      "company": "XYZ Corp",
+      "mobileno": "987-654-3210",
+      "email": "jane.smith@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 3,
+      "customer": "Alice Johnson",
+      "company": "DEF Corporation",
+      "mobileno": "555-555-5555",
+      "email": "alice.johnson@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 4,
+      "customer": "Bob Williams",
+      "company": "GHI Ltd.",
+      "mobileno": "111-222-3333",
+      "email": "bob.williams@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 5,
+      "customer": "Eva Brown",
+      "company": "LMN Enterprises",
+      "mobileno": "444-444-4444",
+      "email": "eva.brown@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 6,
+      "customer": "Michael Davis",
+      "company": "OPQ Corporation",
+      "mobileno": "666-666-6666",
+      "email": "michael.davis@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 7,
+      "customer": "Sarah Wilson",
+      "company": "RST Solutions",
+      "mobileno": "777-777-7777",
+      "email": "sarah.wilson@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 8,
+      "customer": "David Lee",
+      "company": "UVW Enterprises",
+      "mobileno": "888-888-8888",
+      "email": "david.lee@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 9,
+      "customer": "Emily Garcia",
+      "company": "MNO Solutions",
+      "mobileno": "999-999-9999",
+      "email": "emily.garcia@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    },
+    {
+      "srno": 10,
+      "customer": "Daniel Martinez",
+      "company": "PQR Ltd.",
+      "mobileno": "000-000-0000",
+      "email": "daniel.martinez@example.com",
+      "details": "Remark",
+      "more_details":"More Details",
+      "image": "https://gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+    }
+  ]
+}
+
